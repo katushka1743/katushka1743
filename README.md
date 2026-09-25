@@ -40,3 +40,4 @@
 
 *   **Email:** katushka1743@yandex.ru
 *   **Telegram:** [@katushka1743](https://t.me/katushka1743)
+* **GitHub:** [github.com/katushka1743](https://github.com/katushka1743)
