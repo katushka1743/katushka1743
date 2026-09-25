@@ -1,16 +1,42 @@
-## Hi there 👋
+# Екатерина Смирнова
 
-<!--
-**katushka1743/katushka1743** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**QA Engineer | Python | Django | Vue.js | Тестировщик ПО**
 
-Here are some ideas to get you started:
+Привет! Я начинающий QA-инженер с сильным бэкграундом в fullstack-разработке. 
+Понимаю, как устроены веб-приложения изнутри (клиент-серверная архитектура, API, БД), 
+что помогает мне быстрее локализовать дефекты и находить общий язык с разработчиками.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Сейчас фокусируюсь на обеспечении качества ПО, ручном тестировании, работе с API и подготовке к автоматизации.
+
+---
+
+### 🛠 Технический стек
+
+**Тестирование и QA:**
+*   Функциональное, регрессионное, UI/UX тестирование
+*   Техники тест-дизайна, написание тест-кейсов и баг-репортов
+*   Тестирование API (REST, SOAP)
+*   Инструменты: Postman, SoapUI, Chrome DevTools
+
+**Разработка:**
+*   **Backend:** Python, Django Framework
+*   **Frontend:** HTML5, CSS3, JavaScript (Vue.js)
+*   **Базы данных:** SQL, PostgreSQL, MySQL, SQLite
+*   **Инструменты:** Git, GitHub, Bash, Figma, pgAdmin
+
+---
+
+### 🎓 Образование и сертификация
+
+*   **СПБ ГБУ ПО «Академия управления городской средой, градостроительства и печати»** | Диплом с отличием (2026)
+    *Специальность: Разработчик веб и мультимедийных приложений*
+*   **Stepik** | Курс «Тестирование ПО с нуля. Теория + Практика» (Артём Русау) | 2026
+    *Статус: Курс завершен, получен сертификат.* [Ссылка на сертификат](https://stepik.org/cert/3351477)
+    
+
+---
+
+### 📬 Контакты
+
+*   **Email:** katushka1743@yandex.ru
+*   **Telegram:** [@katushka1743](https://t.me/katushka1743)
